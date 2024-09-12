@@ -1,0 +1,1 @@
+export const mongoUrl="mongodb+srv://iamshubhamwaghmare:TqqgvTRxlV65MKOT@cluster.xs1qx.mongodb.net/Book-store-DB?retryWrites=true&w=majority&appName=Cluster"
